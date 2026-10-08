@@ -1,7 +1,7 @@
 {
  "id": "./",
- "name": "Clinical manage",
- "short_name": "Clinical manage",
+ "name": "Clever Clinic",
+ "short_name": "Clever Clinic",
  "description": "Clinic management: patients, accounts, appointments",
  "lang": "ar",
  "dir": "rtl",
